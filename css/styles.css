@@ -80,9 +80,9 @@ cursor: pointer;
 background-color: var(--accent-secondary-color);
 color:var(--white-color);
 }
-.hero.button:hover,
-.hero.button:focus{
-background-color: #404BBF}
+.hero .button:hover,
+.hero .button:focus{
+background-color: var(--hover-color)}
 
 /* Features */
 .features.list {list-style:none}
