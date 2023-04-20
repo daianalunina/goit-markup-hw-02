@@ -10,7 +10,7 @@
 }
 
 
-.page{
+.body{
 background-color: var(--white-color);
 color: var(--secondary-text-color);
 font-family: "Roboto", sans-serif;
@@ -153,9 +153,13 @@ text-transform: uppercase;
 color: var(--accent-secondary-color)}
 .footer-logo.link{text-decoration: none}
 .footer-logo-second {color: var(--accent-primary-color)}
+.footer .text{color:var(--accent-primary-color);
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;}
 
 /* PORTFOLIO part */
-.button-sequece.list{list-style: none;}
+.button.list{list-style: none;}
 .portfolio-button{
 font-family: "Roboto", sans-serif;
 font-weight: 500;
