@@ -10,13 +10,13 @@
 }
 
 
-.body{
+body{
 background-color: var(--white-color);
 color: var(--secondary-text-color);
 font-family: "Roboto", sans-serif;
 letter-spacing: 0.02em;
 line-height: 1.5;
-}
+
 /* LOGO */
 .logo {font-family: "Raleway", sans-serif;
 font-size: 18px;
